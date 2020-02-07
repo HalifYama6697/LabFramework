@@ -25,3 +25,11 @@ git init
 git config --global user.name "HalifYama6697"
 git config --global user.email esport6697@gmail.com
 git add --all
+git commit -m "My Django Girls app, first commit"
+git remote add origin https://github.com/HalifYama6697/LabFramework.git
+git push -u origin master
+git init
+git config --global user.name "Your Name"
+git config --global user.name "HalifYama6697"
+git config --global user.email esport6697@gmail.com
+git status
